@@ -1,0 +1,23 @@
+From f6fda4a6fd5e30f0ed025f3f9469628f02c1aea9 Mon Sep 17 00:00:00 2001
+From: srinudevops2017 <srinivas.konumu@gmail.com>
+Date: Thu, 9 Jan 2020 23:46:26 +0530
+Subject: [PATCH] File created with filesystem details
+
+---
+ syshw.txt | 4 ++++
+ 1 file changed, 4 insertions(+)
+ create mode 100644 syshw.txt
+
+diff --git a/syshw.txt b/syshw.txt
+new file mode 100644
+index 0000000..c2f21bc
+--- /dev/null
++++ b/syshw.txt
+@@ -0,0 +1,4 @@
++Filesystem            Size  Used Avail Use% Mounted on
++C:/Program Files/Git  100G   65G   36G  65% /
++D:                    183G   45G  139G  25% /d
++E:                    183G  173G   10G  95% /e
+-- 
+2.19.1.windows.1
+
